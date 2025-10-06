@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-review-status.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, forecast, capacity, storage, economic efficiency 
+summary: 'クラスターの容量が現在 70% のしきい値を下回っているか、下回ると予測される場合、ライフサイクル プランニングではそれらを低容量リソースとして識別し、警告を発します。' 
+---
+= ライフサイクル計画におけるキャパシティステータスの確認
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+環境内のストレージ資産が現在 90% の容量のしきい値を下回っているか、下回ると予測される場合、ライフサイクル プランニングではそれらを低容量リソースとして識別し、警告を発します。さらに、ライフサイクル プランニングでは、データを階層化する必要があるかどうかに関する推奨事項が提供されます。
+
+容量の問題の解決に役立てるために、次の種類のデータを確認することができます。
+
+* プラットフォーム
+* 資産の所在国
+* 月ごとの現在の容量と予測容量
+
+
+.手順
+. link:../get-started/capacity-login.html["NetAppコンソールにログインする"] 。
+. 左側のナビゲーションから、[容量] を選択します。
++
+image:capacity-page.png["システムのリストを表示する容量ページ"]
+
+. 「容量」ページからシステムを選択します。
++
+image:capacity-evaluate-storage-capacity.png["ライフサイクル計画のキャパシティページ"]
+
+. アセットの*ストレージ オプションの評価*を選択します。
+. 次のいずれかのオプションを選択します。
++
+** *ベスト プラクティス*: ベスト プラクティスを表示するには、リンクをクリックして続行します。
+** *階層コールドデータ*: 続行link:../use/capacity-tier-data.html["コールドデータをクラウドストレージに階層化し、ストレージを解放する"]。
+** *アクションは必要ありません*: 続行するにはlink:../use/capacity-reminders.html["何も選択せず、再度確認するためのリマインダーを設定する"]。
+
+
+

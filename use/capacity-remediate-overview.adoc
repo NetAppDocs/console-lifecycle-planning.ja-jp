@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: use/capacity-remediate-overview.html 
+keywords: lifecycle planning remediate, lifecycle planning, capacity planning, economic efficiency,bluexp 
+summary: NetAppライフサイクル プランニング キャパシティ プランニングでは、AI を使用してデータの増加を予測し、計画プロセスを支援します。 
+---
+= ライフサイクル計画によって特定された容量の問題を確認し、修正する
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+キャパシティ プランニングには、環境内の現在のキャパシティと予測されるキャパシティの低い領域を特定することが含まれます。ライフサイクル プランニングでは、AI を使用してデータの増加を予測し、計画プロセスを支援します。ライフサイクル計画では、環境内の容量の低い領域を特定します。
+
+ライフサイクル計画を使用すると、次の目標を達成できます。
+
+* link:../use/capacity-review-status.html["容量ステータスを確認する"]
+* link:../use/capacity-tier-data.html["コールドデータをクラウドストレージに階層化してストレージを解放する"]
+* link:../use/capacity-reminders.html["何も選択せず、再度確認するためのリマインダーを設定します"]
+

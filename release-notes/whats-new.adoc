@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
+summary: 'NetAppライフサイクル プランニング サービスは、現在または予測される容量が低いクラスターを識別し、データ階層化または追加容量 ( AFFシステムの場合) に関する推奨事項を提供します。このサービスでは、サポート終了が近づいているシステムに対して、技術更新の推奨事項も提供します。' 
+---
+= ライフサイクルプランニングの新機能
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+ライフサイクル プランニングの新機能について説明します。
+
+
+
+== 2025年10月6日
+
+
+
+=== BlueXP economic efficiencyはライフサイクルプランニングに
+
+BlueXP economic efficiencyはライフサイクル プランニングに名前が変更されました。
+
+NetAppコンソールの左側のナビゲーション バーから、[*ストレージ*] > [*ライフサイクル プランニング*] を選択してアクセスできます。
+
+
+
+=== BlueXPはNetAppコンソールになりました
+
+NetAppコンソールは、強化され再構築されたBlueXP基盤上に構築され、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとNetAppデータ サービスの集中管理を提供し、リアルタイムの分析情報、ワークフローの高速化、および高度なセキュリティとコンプライアンスを備えた簡素化された管理を実現します。
+
+変更内容の詳細については、link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetAppコンソールのリリースノート"] 。
+
+
+
+== 2024年5月15日
+
+
+
+=== 無効になっている機能
+
+BlueXP economic efficiency機能の一部は一時的に無効になっています:
+
+* テクノロジーの刷新
+* 容量を追加
+
+
+
+
+== 2024年3月14日
+
+
+
+=== テクノロジー更新オプション
+
+既存の資産があり、テクノロジーを更新する必要があるかどうかを判断したい場合は、 BlueXP の経済効率テクノロジー更新オプションを使用できます。現在のワークロードの簡単な評価を確認して推奨事項を入手するか、過去 90 日以内にAutoSupportログをNetAppに送信した場合は、サービスでワークロード シミュレーションを提供して、新しいハードウェアでのワークロードのパフォーマンスを確認できるようになりました。
+
+ワークロードを追加し、シミュレーションから既存のワークロードを除外することもできます。
+
+以前は、資産を評価して、テクノロジーの更新が推奨されるかどうかを特定することしかできませんでした。
+
+この機能は、左側のナビゲーションの [Tech refresh] オプションの一部になりました。
+
+詳細はこちら https://docs.netapp.com/us-en/bluexp-economic-efficiency/use/tech-refresh.html["テクノロジーの更新を評価する"]。
+
+
+
+== 2023年11月8日
+
+
+
+=== テクノロジーの刷新
+
+BlueXP economic efficiencyのこのリリースには、資産を評価し、テクノロジの更新が推奨されるかどうかを判断する新しいオプションが含まれています。  BlueXP economic efficiencyには、左側のナビゲーションの新しい技術更新オプション、現在のワークロードと資産を評価できる新しいページ、推奨事項を提供するレポートが含まれています。
+
+
+
+== 2023年4月2日
+
+
+
+=== BlueXP economic efficiencyのご紹介
+
+新しいBlueXP economic efficiencyは、現在または将来的に容量不足になるストレージ資産を識別し、オンプレミスのAFFシステムのデータ階層化または追加容量に関する推奨事項を提供します。
+
+link:https://docs.netapp.com/us-en/bluexp-economic-efficiency/get-started/intro.html["NetAppの経済効率について詳しく見る"] 。

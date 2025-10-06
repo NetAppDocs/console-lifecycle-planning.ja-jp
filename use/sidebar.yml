@@ -1,0 +1,12 @@
+---
+section: use
+title: NetAppライフサイクルプランニングを使用する
+entries:
+- title: 容量の問題を確認して修正する
+  url: "/use/capacity-remediate-overview.html"
+- title: 容量ステータスを確認する
+  url: "/use/capacity-review-status.html"
+- title: コールドデータをクラウドストレージに階層化
+  url: "/use/capacity-tier-data.html"
+- title: 再度確認するためのリマインダーを設定する
+  url: "/use/capacity-reminders.html"

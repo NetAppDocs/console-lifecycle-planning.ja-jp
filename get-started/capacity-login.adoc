@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-login.html 
+keywords: bluexp login, capacity planning log in, economic efficiency,lifecycle planning 
+summary: NetAppコンソールでアクセスして、ライフサイクル プランニングを開始します。 
+---
+= アクセスライフサイクル計画
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+ライフサイクル プランニングにアクセスするには、 NetAppコンソールを使用します。
+
+コンソールにログインするには、 NetAppサポート サイトの資格情報を使用できます。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["ログインについて詳しくはこちら"^] 。
+
+
+TIP: この機能には、 NetAppコンソール (* ストレージ* > *ライフサイクル プランニング*) またはDigital Advisor (* ダッシュボード* > *計画ウィジェット* > *技術更新*) からアクセスできます。
+
+.手順
+. ウェブブラウザを開いて https://console.netapp.com/["NetAppコンソール"^]。
++
+コンソールのログイン ページが表示されます。
+
+. コンソールにログインします。
+. コンソールの左側のナビゲーションから、*ストレージ* > *ライフサイクル プランニング* を選択します。
+

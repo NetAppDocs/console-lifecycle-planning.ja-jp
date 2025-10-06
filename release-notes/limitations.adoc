@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: release-notes/limitations.html 
+keywords: economic efficiency, bluexp, lifecycle planning, 
+summary: 既知の制限事項では、このリリースのサービスでサポートされていない、または正しく相互運用されないプラットフォーム、デバイス、または機能が特定されます。 
+---
+= 制限事項
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+既知の制限事項では、このリリースのサービスでサポートされていない、または正しく相互運用されないプラットフォーム、デバイス、または機能が特定されます。

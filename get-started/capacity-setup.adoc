@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: get-started/capacity-setup.html 
+keywords: bluexp, lifecycle planning remediate, lifecycle planning, capacity planning, set reminders for capacity,lifecycle planning 
+summary: ライフサイクル プランニングを使用するには、いくつかの手順を実行して設定します。 
+---
+= ライフサイクル計画を設定する
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+ライフサイクル プランニングを使用するには、いくつかの手順を実行して設定します。
+
+* レビューlink:../get-started/prerequisites.html["前提条件"]システムの準備ができていることを確認します。
+* NetAppコンソールにコンソール エージェントを作成します。
+* コンソールでクラスターを検出します。
+
+
+コンソール内で直接コンソール エージェントを作成し、後でBlueXP economic efficiencyでそのエージェントを使用することができます。または、容量修復プロセスの途中でコンソール エージェントを作成することもできます。
+
+同様に、コンソールを使用して事前に、または容量修復プロセス中にクラスターを検出することもできます。
+
+
+
+== NetAppコンソールでコンソールエージェントを作成する
+
+NetAppコンソール エージェントには、 NetApp ONTAPマシンへの資格情報が含まれています。
+
+サービスを使用する前にコンソールでコンソールエージェントを作成するには、コンソールのドキュメントを参照してください。 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["NetAppコンソールエージェントを作成する方法"^] 。
+
+
+
+== NetAppコンソールでクラスタを検出する
+
+セットアップの一部として、コンソール内でクラスター名、IP、ユーザー名、およびパスワードを識別することが含まれます。
+
+ライフサイクルプランニングを使用する前の手順については、 https://docs.netapp.com/us-en/bluexp-ontap-onprem/task-discovering-ontap.html["オンプレミスのONTAPクラスタの検出"^] 。
