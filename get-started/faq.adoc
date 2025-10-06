@@ -20,7 +20,7 @@ summary: 質問に対する簡単な回答を探している場合は、この F
 
 *ライフサイクル プランニングの URL とは何ですか?*
 
-URL については、ブラウザで次のように入力します。 https://console.netapp.com/["https://console.netapp.com/"^] NetAppコンソールにアクセスします。
+URL については、ブラウザで次のように入力します。 https://console.netapp.com/["https://console.netapp.com/"^] NetApp Consoleにアクセスします。
 
 
 

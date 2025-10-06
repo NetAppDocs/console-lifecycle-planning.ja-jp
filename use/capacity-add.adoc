@@ -19,7 +19,7 @@ summary: ライフサイクル プランニングでは、予測されるデー�
 見積依頼または代替オプションのリクエストとして、推奨事項をNetAppセールス チームに簡単に送信できます。
 
 .手順
-. link:../get-started/capacity-login.html["NetAppコンソールにログインする"] 。
+. link:../get-started/capacity-login.html["NetApp Consoleにログインする"] 。
 . *キャパシティプランニング*を選択します。
 . アセットの*ストレージ オプションの評価*を選択します。
 . *容量の追加*を選択します。

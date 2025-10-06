@@ -14,11 +14,11 @@ summary: 環境、ネットワーク アクセス、ログイン、Web ブラウ
 [role="lead"]
 運用環境、ログイン、ネットワーク アクセスの準備状況を確認して、ライフサイクル プランニングを開始します。ライフサイクル計画を使用するには、環境がすべての要件を満たしていることを確認する必要があります。
 
-* ご使用の環境は、Web ブラウザからのログインやネットワーク アクセスなど、 NetAppコンソールのすべての要件を満たしている必要があります。
+* ご使用の環境は、Web ブラウザからのログインやネットワーク アクセスなど、 NetApp Consoleのすべての要件を満たしている必要があります。
 +
-参照 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["NetAppコンソールのクイックスタート"^]そして https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["NetAppコンソールのネットワーク情報"^]。
+参照 https://docs.netapp.com/us-en/bluexp-setup-admin/task-quick-start-standard-mode.html["NetApp Consoleのクイックスタート"^]そして https://docs.netapp.com/us-en/bluexp-setup-admin/reference-networking-saas-console.html["NetApp Consoleのネットワーク情報"^]。
 
 * クラスターへのアクセス資格情報が必要です。
-* 必須ではありませんが、 NetAppコンソール エージェントが配置され、有効になっており、 ONTAPシステムが検出されていると便利です。そうでない場合は、サービスがそのプロセスを案内します。
+* 必須ではありませんが、 NetApp Consoleエージェントが配置され、有効になっており、 ONTAPシステムが検出されていると便利です。そうでない場合は、サービスがそのプロセスを案内します。
 * コールド データをクラウド ストレージに階層化することを計画している場合は、クラスターがライセンスごとに適格であることを確認してください。
 

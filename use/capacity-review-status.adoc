@@ -22,7 +22,7 @@ summary: 'クラスターの容量が現在 70% のしきい値を下回って�
 
 
 .手順
-. link:../get-started/capacity-login.html["NetAppコンソールにログインする"] 。
+. link:../get-started/capacity-login.html["NetApp Consoleにログインする"] 。
 . 左側のナビゲーションから、[容量] を選択します。
 +
 image:capacity-page.png["システムのリストを表示する容量ページ"]
