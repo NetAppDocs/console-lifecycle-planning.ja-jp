@@ -24,7 +24,6 @@
   <block id="4409dcaa0e2404a16a923cd466b13496" category="paragraph">ライフサイクル プランニングにアクセスするには、 NetApp Consoleを使用します。</block>
   <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">ログインについて詳しくはこちら</block>
   <block id="4c992a0884fb27bf6e258aeeb9186bc9" category="paragraph">コンソールにログインするには、 NetAppサポート サイトの資格情報を使用できます。<block ref="192dac3a1352f6134fa7409c0b073570" category="inline-link-rx"></block> 。</block>
-  <block id="cc07f1abe65c2e4c2c4159ab1c15fe91" category="admonition">この機能には、 NetApp Console(* ストレージ* &gt; *ライフサイクル プランニング*) またはDigital Advisor (* ダッシュボード* &gt; *計画ウィジェット* &gt; *技術更新*) からアクセスできます。</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
   <block id="982bd3899a5d1f111ad06bb73841bc70" category="inline-link">NetApp Console</block>
   <block id="352cce5842856ce34ce1f525ea3f3063" category="list-text">ウェブブラウザを開いて<block ref="d6a8357fd9eebcdff3de02435d957676" category="inline-link-rx"></block>。</block>
@@ -37,7 +36,6 @@
   <block id="4e19bf2e9b4ac5a922a2178855496f5f" category="list-text">レビュー<block ref="7009d9e779d272896f977d5e53a42299" category="inline-link-macro-rx"></block>システムの準備ができていることを確認します。</block>
   <block id="213689e3824c3842ee1cdb3ae49b0131" category="list-text">NetApp Consoleでコンソール エージェントを作成します。</block>
   <block id="0e3747332782db47a3f7f6a39bcc758d" category="list-text">コンソールでクラスターを検出します。</block>
-  <block id="80526f97f09af6a5d20818ce9d1aa659" category="paragraph">コンソール内で直接コンソール エージェントを作成し、後でBlueXP economic efficiencyでそのエージェントを使用することができます。または、容量修復プロセスの途中でコンソール エージェントを作成することもできます。</block>
   <block id="5eaec4ed71699a5bb43c22a5010be7d9" category="paragraph">同様に、コンソールを使用して事前に、または容量修復プロセス中にクラスターを検出することもできます。</block>
   <block id="01f52dd5b9c3fcf42a482c9c21f24432" category="section-title">NetApp Consoleでコンソールエージェントを作成する</block>
   <block id="80f2ac90e12391c4af73ba72a4582586" category="paragraph">NetApp Consoleエージェントには、 NetApp ONTAPマシンへの資格情報が含まれています。</block>
@@ -60,7 +58,6 @@
   <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">NetAppライセンス ファイル (NLF) は必要ありません。</block>
   <block id="b4d4f6b8330b6463316818057edebd1d" category="summary">NetAppライフサイクル プランニングは、現在または将来的に容量が低いと予測されるクラスターを識別し、データ階層化に関する推奨事項を提供します。</block>
   <block id="738bddffaf8c953ead58e77594d61e27" category="doc">ライフサイクルプランニングについて学ぶ</block>
-  <block id="ed3d51b267614016e45d189f489c77f6" category="paragraph">ライフサイクル プランニングでは、現在または予測される低容量のストレージ資産を評価し、ビジネス ニーズを満たすデータ階層化オプションに関する推奨事項を提供します。</block>
   <block id="3c031b939f6ec312ee601d021e7a6644" category="section-title">NetApp Console</block>
   <block id="7c776c6aa9835fda1b29b4771c2638e8" category="paragraph">ライフサイクル プランニングには、 NetApp Consoleからアクセスできます。</block>
   <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">NetApp Consoleは、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとデータ サービスの集中管理を提供します。NetAppデータ サービスにアクセスして使用するには、コンソールが必要です。管理インターフェースとして、1 つのインターフェースから多数のストレージ リソースを管理できます。コンソール管理者は、企業内のすべてのシステムのストレージとサービスへのアクセスを制御できます。</block>
@@ -73,14 +70,12 @@
   <block id="f0a161f3ab72e29c18f1f08d5d13b96c" category="list-text">資産の現在の容量と予測容量を確認します。</block>
   <block id="3a5156e2b110b01f0232d7d1c0315f1b" category="section-title">ライフサイクルプランニングのメリット</block>
   <block id="833f6dc2fb23df68f7359d32c726551e" category="paragraph">ライフサイクル プランニングには次のような利点があります。</block>
-  <block id="9e352447a1c5e46200808eb84d9a862a" category="list-text">ライフサイクル イベントに近づいているシステムを特定し、テクノロジーの更新を計画するのに役立ちます</block>
   <block id="f9b5dc1a48c8d1f1da2b13f28761e9a9" category="list-text">環境内の容量の問題に対処するための信頼できるアドバイザーの推奨事項を提供します</block>
   <block id="757f36865bb189e37e6988545be631ca" category="list-text">追加ストレージの計画にかかる時間を短縮</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">料金</block>
   <block id="17e75fb73776766e7311c3e085d274f5" category="paragraph">NetApp、ライフサイクル プランニングの使用に対して料金を請求しません。</block>
   <block id="e7d9dc0e5ecd2442c7c315db9ddb0fa8" category="paragraph">コールド データをクラウド ストレージに階層化する場合は、適用される料金についてクラウド プロバイダーに確認する必要があります。</block>
   <block id="bf733d8a933c1601697f364223fc7ecb" category="section-title">アクセス</block>
-  <block id="3e4fb4563dc82adcd4bd48b88acabacd" category="paragraph">この機能には、 NetApp Console(* ストレージ * &gt; *ライフサイクル プランニング *) またはActive IQ Digital Advisor ( Digital Advisorとも呼ばれます) (* ダッシュボード * &gt; *計画ウィジェット * &gt; *技術更新 *) からアクセスできます。</block>
   <block id="6ee44a97c3bde1b4b443da63f561e127" category="summary">環境、ネットワーク アクセス、ログイン、Web ブラウザのサポートを確認して、 NetAppライフサイクル プランニングを開始します。</block>
   <block id="ce9492140ce6fd831d4d5870b1489b8d" category="doc">ライフサイクル計画の前提条件</block>
   <block id="9cf3ad8527c1bb0512c1cae3ba255528" category="paragraph">運用環境、ログイン、ネットワーク アクセスの準備状況を確認して、ライフサイクル プランニングを開始します。ライフサイクル計画を使用するには、環境がすべての要件を満たしていることを確認する必要があります。</block>
@@ -130,8 +125,6 @@
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">オープンソース</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知ファイルには、 NetAppソフトウェアで使用されるサードパーティの著作権およびライセンスに関する情報が提供されます。</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">既知の制限事項では、このリリースのサービスでサポートされていない、または正しく相互運用されないプラットフォーム、デバイス、または機能が特定されます。</block>
-  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">制限事項</block>
-  <block id="b7ec1b0922b218fd6c319d32a6bec93d" category="summary">NetAppライフサイクル プランニング サービスは、現在または予測される容量が低いクラスターを識別し、データ階層化または追加容量 ( AFFシステムの場合) に関する推奨事項を提供します。このサービスでは、サポート終了が近づいているシステムに対して、技術更新の推奨事項も提供します。</block>
   <block id="46cb02d5628c6067e8b293e526b9b4a7" category="doc">ライフサイクルプランニングの新機能</block>
   <block id="b6a3c0ab2923358ede3a440002e30423" category="paragraph">ライフサイクル プランニングの新機能について説明します。</block>
   <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025年10月6日</block>
@@ -145,39 +138,24 @@
   <block id="39bcc3e1a68b1461b9667a7690558d58" category="paragraph"><block ref="4c8264ea035faba87439d59337882b10" category="inline-link-macro-rx"></block> 。</block>
   <block id="e48486c33f71dc8e173adb6c6fc66485" category="summary">NetApp は、さまざまな方法でNetApp Consoleのサポートを提供します。ナレッジベース (KB) 記事やコミュニティ フォーラムなど、広範な無料のセルフサポート オプションが 24 時間 365 日ご利用いただけます。サポート登録には、Webチケットによるリモートテクニカルサポートも含まれます。</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">ヘルプを受ける</block>
-  <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetAppは、 BlueXPとそのクラウドサービスに対して、様々なサポートを提供しています。ナレッジベース（KB）記事やコミュニティフォーラムなど、充実した無料のセルフサポートオプションを24時間365日ご利用いただけます。サポート登録には、Webチケットによるリモートテクニカルサポートも含まれます。</block>
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">クラウドプロバイダーのファイルサービスのサポートを受ける</block>
-  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">クラウド プロバイダーのファイル サービス、そのインフラストラクチャ、またはサービスを使用するソリューションに関連するテクニカル サポートについては、その製品のBlueXPドキュメントの「ヘルプの取得」を参照してください。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSx for ONTAP</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
   <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp Volumes</block>
-  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
-  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXPとそのストレージ ソリューションおよびサービスに固有のテクニカル サポートを受けるには、以下に説明するサポート オプションを使用してください。</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">セルフサポートオプションを使用する</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">以下のオプションは、24 時間 365 日無料でご利用いただけます。</block>
   <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">ドキュメント</block>
-  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">現在表示しているBlueXPドキュメント。</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">ナレッジベース</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
-  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">BlueXPナレッジベースを検索して、問題のトラブルシューティングに役立つ記事を見つけます。</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">コミュニティ</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
-  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">BlueXPコミュニティに参加して、進行中のディスカッションをフォローしたり、新しいディスカッションを作成したりしてください。</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">NetAppサポートでケースを作成する</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">上記のセルフ サポート オプションに加えて、サポートを有効にした後は、 NetAppサポート スペシャリストと協力して問題を解決することもできます。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">始める前に</block>
-  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">BlueXPログインに関連付けられた資格情報を管理する方法を学びます</block>
-  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">*ケースの作成*機能を使用するには、まずNetAppサポート サイトの資格情報をBlueXPログインに関連付ける必要があります。<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block> 。</block>
   <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">シリアル番号を持つONTAPシステムのケースを開く場合は、NSS アカウントがそのシステムのシリアル番号に関連付けられている必要があります。</block>
-  <block id="7fe6981833e8fe7fd89e0a99a55573da" category="list-text">BlueXPで、*ヘルプ &gt; サポート*を選択します。</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">*リソース*ページで、テクニカル サポートの下にある利用可能なオプションのいずれかを選択します。</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">電話で誰かと話したい場合は、「電話する」を選択してください。電話をかけることができる電話番号をリストした netapp.com のページに移動します。</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">NetAppサポート スペシャリストとのチケットを開くには、[ケースを作成] を選択します。</block>
-  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*サービス*: 問題が関連付けられているサービスを選択します。たとえば、サービス内のワークフローまたは機能に関するテクニカル サポートの問題に固有の場合はBlueXP。</block>
-  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*作業環境*: ストレージに該当する場合は、* Cloud Volumes ONTAP* または * On-Prem* を選択し、関連する作業環境を選択します。</block>
-  <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">作業環境のリストは、サービスのトップバナーで選択したBlueXP組織 (またはアカウント)、プロジェクト (またはワークスペース)、およびコネクタの範囲内にあります。</block>
   <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*ケースの優先度*: ケースの優先度 (低、中、高、重大) を選択します。</block>
   <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">これらの優先順位の詳細を確認するには、フィールド名の横にある情報アイコンの上にマウスを置きます。</block>
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*問題の説明*: 該当するエラー メッセージや実行したトラブルシューティング手順など、問題の詳細な説明を入力します。</block>
@@ -185,18 +163,12 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*添付ファイル (オプション)*: 一度に 1 つずつ、最大 5 つの添付ファイルをアップロードします。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">添付ファイルはファイルごとに 25 MB までに制限されます。サポートされているファイル拡張子は、txt、log、pdf、jpg/jpeg、rtf、doc/docx、xls/xlsx、csv です。</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">NetAppサポートでケースを作成できる「ケースの作成」フォームのスクリーンショット。</block>
-  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">終了後の操作</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">サポート ケース番号を示すポップアップが表示されます。NetAppサポート スペシャリストがお客様のケースを確認し、すぐにご連絡いたします。</block>
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">サポート ケースの履歴については、*設定 &gt; タイムライン* を選択し、「サポート ケースの作成」というアクションを探します。右端のボタンを使用すると、アクションを展開して詳細を表示できます。</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">ケースを作成しようとすると、次のエラー メッセージが表示される場合があります。</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">「選択したサービスに対してケースを作成する権限がありません」</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">このエラーは、NSS アカウントとそれに関連付けられているレコード会社が、 BlueXPアカウントのシリアル番号のレコード会社と同じではないことを意味している可能性があります (つまり、960xxxx) または作業環境のシリアル番号。次のいずれかのオプションを使用してサポートを求めることができます。</block>
-  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">製品内チャットを使用する</block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">非技術的なケースを提出する<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
-  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">サポートケースを管理する（プレビュー）</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">アクティブおよび解決済みのサポート ケースをBlueXPから直接表示および管理できます。NSS アカウントおよび会社に関連付けられたケースを管理できます。</block>
-  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">ケース管理はプレビューとして利用できます。今後のリリースでは、このエクスペリエンスを改良し、機能強化を追加する予定です。製品内チャットを使用してフィードバックをお送りください。</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">次の点に注意してください。</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">ページ上部のケース管理ダッシュボードには、次の 2 つのビューがあります。</block>
   <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左側のビューには、指定したユーザー NSS アカウントによって過去 3 か月間に開かれたケースの合計が表示されます。</block>
@@ -205,27 +177,15 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">関心のある列を追加または削除したり、優先度やステータスなどの列の内容をフィルタリングしたりできます。その他の列は並べ替え機能のみを提供します。</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">詳細については、以下の手順をご覧ください。</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">ケースごとに、ケースメモを更新したり、まだ「クローズ」または「クローズ保留中」ステータスになっていないケースをクローズしたりする機能を提供します。</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">*ケース管理*を選択し、プロンプトが表示されたら、NSS アカウントをBlueXPに追加します。</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">*ケース管理* ページには、 BlueXPユーザー アカウントに関連付けられている NSS アカウントに関連するオープン ケースが表示されます。これは、*NSS 管理* ページの上部に表示される NSS アカウントと同じです。</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">必要に応じて、テーブルに表示される情報を変更します。</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">*組織のケース*の下で*表示*を選択すると、会社に関連付けられているすべてのケースが表示されます。</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">正確な日付範囲を選択するか、別の期間を選択して日付範囲を変更します。</block>
-  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">ケース管理ページの表の上にあるオプションのスクリーンショット。正確な日付範囲、または過去 7 日間、30 日間、または 3 か月間を選択できます。</block>
-  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">列の内容をフィルタリングします。</block>
-  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">「アクティブ」や「クローズ」などの特定のステータスに一致するケースを除外できる、「ステータス」列のフィルター オプションのスクリーンショット。</block>
-  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">表に表示されるプラスアイコン</block>
-  <block id="cdf14d2156528231a5dbd12ad5c95d3f" category="list-text">表に表示される列を変更するには、<block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block>次に、表示する列を選択します。</block>
-  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">テーブルに表示できる列を示すスクリーンショット。</block>
-  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">表の最後の列に表示される3つの点のアイコン</block>
-  <block id="348552521b849746260fe8d296d34c15" category="list-text">既存のケースを管理するには、<block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block>利用可能なオプションのいずれかを選択します。</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*ケースを表示*: 特定のケースに関する詳細をすべて表示します。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*ケースノートを更新*: 問題に関する追加の詳細を入力するか、*ファイルのアップロード*を選択して最大 5 つのファイルを添付します。</block>
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*ケースを閉じる*: ケースを閉じる理由の詳細を入力し、[*ケースを閉じる*] を選択します。</block>
-  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">表の最後の列にあるメニューを選択した後に実行できるアクションを示すスクリーンショット。</block>
-  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6269943bbab503c57445a47b04897eaa" category="summary">NetAppテクニカル サポートでサポート ケースを開く前に、 NetAppサポート サイト アカウントをNetApp Consoleに追加し、サポートに登録する必要があります。</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">サポートに登録する</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">サポート登録の概要</block>
@@ -241,9 +201,7 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetAppの新着情報</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetAppを初めて使用し、NSS アカウントをお持ちでない場合は、以下の手順に従ってください。</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「サポート」が最初のオプションとしてリストされている「ヘルプ」メニューのスクリーンショット</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">サポート登録ページからアカウント ID シリアル番号を見つけます。</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetAppのサポート登録サイト</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">移動先<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block>*私は登録済みのNetApp顧客ではありません* を選択します。</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">必須フィールド（赤いアスタリスクが付いているフィールド）に入力します。</block>
@@ -271,18 +229,14 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">既存の顧客レベルの NSS アカウントがあり、パートナー レベルのアカウントを追加しようとする場合も同様です。</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">ログインが成功すると、 NetApp はNSS ユーザー名を保存します。</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">3つの水平の点のアイコン</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">これは、メールにマッピングされるシステム生成の ID です。*NSS管理*ページでは、<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block>メニュー。</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">ログイン認証トークンを更新する必要がある場合は、<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block>メニュー。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">このオプションを使用すると、再度ログインするよう求められます。これらのアカウントのトークンは 90 日後に期限切れになることに注意してください。これを知らせる通知が投稿されます。</block>
   <block id="1c85b72120b585028490f9cb2c62a430" category="summary">ライフサイクル プランニングでは、予測されるデータの増加に基づいてAFFシステムの推奨事項が提供されます。予測を受け入れるか、独自の予測を入力することができます。これに基づいて、ライフサイクル プランニングでは、容量増加予測を満たし、資産構成に最適な推奨事項が提示されます。</block>
   <block id="a4b7f4fbb927af10488fb0f1be9b7aa8" category="paragraph">ライフサイクル プランニングでは、予測されるデータの増加に基づいてAFFシステムの推奨事項が提供されます。予測を受け入れるか、独自の予測を入力することができます。これに基づいて、ライフサイクル計画では、容量増加予測を満たし、資産構成に最適な推奨事項を提示します。</block>
-  <block id="d61c6fe6373ce09cb70846c4b4009e46" category="paragraph">推奨事項の 1 つは、既存のシリアル番号に棚を追加して容量を追加することです。</block>
   <block id="417aeeb6b45f27026b8f5da134cf808b" category="paragraph">見積依頼または代替オプションのリクエストとして、推奨事項をNetAppセールス チームに簡単に送信できます。</block>
   <block id="0aa8eee6dc5796fb05ecd4c09063d90a" category="inline-link-macro">NetApp Consoleにログインする</block>
   <block id="efafc891275242e940b48eac42ac5d2a" category="list-text"><block ref="44b0339ddb110b80a3345d53f4eba5a4" category="inline-link-macro-rx"></block> 。</block>
   <block id="1f95877e26de3e2da5e124cfece7b78d" category="list-text">*キャパシティプランニング*を選択します。</block>
   <block id="516d28f53c7dff8d7f269aaa4d14b40e" category="list-text">アセットの*ストレージ オプションの評価*を選択します。</block>
-  <block id="dfa90aeb29550058022b6b79dc2fcab1" category="list-text">*容量の追加*を選択します。</block>
   <block id="acdb4b15420328ba01cc67b594eb95b8" category="paragraph">資産のデータが表示されます。</block>
   <block id="1e9b75d12e4760def37dda99030a043c" category="list-text">予測、使用率、レイテンシの傾向、IOPS の傾向を確認します。</block>
   <block id="53bfb6623aa4226a9a7abd1da46938ee" category="list-text">推奨事項を取得するには、[*ストレージ オプションの評価*] を選択します。</block>
@@ -358,12 +312,8 @@
   <block id="51719535acedbf69edcd6974f73c1601" category="list-text">クラスターが検出されたら、階層化を設定します。</block>
   <block id="dbf638b2df9fdd6b028f3a442df69395" category="inline-link">NetApp Cloud Tieringドキュメント</block>
   <block id="7a353d1354dac3a31294d1ad9949331e" category="paragraph">階層化の詳細については、<block ref="77dfa5d928d441d47a9ada2cff006f53" category="inline-link-rx"></block> 。</block>
-  <block id="fb6c4a6ba34ef32defa8d30ffb27dc4b" category="summary">既存の資産があり、テクノロジの更新が推奨されるかどうかを判断するための評価が必要な場合は、ライフサイクル プランニングのテクノロジ更新オプションを使用できます。このプロセスでは、現在のワークロードと資産を評価し、今後の進め方に関する推奨事項を提供します。または、ワークロードのシミュレーションを試すこともできます。</block>
-  <block id="28d71a1e618675bdef45ff1e59be4038" category="doc">ライフサイクル計画を使用してテクノロジーの更新を評価する</block>
-  <block id="2e0d5c7f5dda8a1f356c9e675b3f71bd" category="paragraph">既存の資産があり、テクノロジの更新が推奨されるかどうかを判断したい場合は、ライフサイクル プランニングのテクノロジ更新オプションを使用できます。現在のワークロードの簡単な評価を確認して推奨事項を入手することも、過去 90 日以内にAutoSupportログをNetAppに送信した場合は、サービスによってワークロード シミュレーションが提供され、新しいハードウェア上でワークロードがどのように実行されるかを確認することもできます。</block>
   <block id="c1df900b707f6cd8b297fcefd8af961c" category="list-text"><block ref="3bb80309ab3efc46643e12a3c466df63" category="inline-xref-macro-rx"></block></block>
   <block id="3a6ef779c7756458c04e7911e9d5bd22" category="list-text"><block ref="aeecc3b20f94ea0eee23729012d11867" category="inline-xref-macro-rx"></block></block>
-  <block id="8aec41c7ba6a608ecc5e3bf075c75955" category="paragraph">システムは、次の点に基づいて技術更新の候補として検討されます。</block>
   <block id="86602ed92a03b859038bb7756a757229" category="list-text">テクニカルサポート契約の終了が近づいています</block>
   <block id="c38a9e42a96b1f7a4348f94a647dbf2f" category="list-text">ハードウェアライフサイクルの終わりが近づいています</block>
   <block id="869f59d2ae09cc5c642d6874113ec74d" category="admonition">この機能には、ライフサイクル プランニングまたはDigital Advisorを通じてアクセスできます。</block>
@@ -372,19 +322,11 @@
   <block id="a6c4b361fe037e9829a1b6c444d3c045" category="list-text">評価するシステムを選択します。</block>
   <block id="c30e6ddb6c5a57eadc6068b4fb442fa0" category="list-text">環境、ワークロードの種類、容量、パフォーマンス、予算に関する要件を指定します。</block>
   <block id="e0d081d97c8f3ae3f0917ae9aa59bc00" category="list-text">ご使用の環境のパフォーマンスを向上させる可能性のある適切な製品およびクラウド サービスに関する推奨事項を表示します。</block>
-  <block id="3b36f4b6bc4ec4b1b6204b51db2d5310" category="list-text">*技術更新*を選択します。</block>
-  <block id="3a9ff9e61ff49a5a72a2d6b20d63dcee" category="inline-image-macro">技術更新候補を示す技術更新ページ</block>
-  <block id="4ff59188fe0581ed4553e8d2672e289b" category="paragraph"><block ref="4ff59188fe0581ed4553e8d2672e289b" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b144465a79421b6ed1853869bd650ffe" category="list-text">*技術更新候補*タブを確認します。このタブには、技術更新によってメリットが得られる可能性のあるすべてのシステムがリストされています。</block>
   <block id="4fe59dee5c231845a4fd66f902820f8b" category="list-text">評価を取得するシステムを選択します。</block>
   <block id="f72458015275b72478d3c8356aa2a853" category="list-text">[アクション] 列から、[更新の評価] を選択します。</block>
-  <block id="41dd9cb81e846a2b92ce0dc8d3bab0f4" category="inline-image-macro">技術更新に含まれるシステム</block>
-  <block id="ee37d63f7086468bf9d7a51a647d233a" category="paragraph"><block ref="ee37d63f7086468bf9d7a51a647d233a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="5163b220b10897250bf3e170ce6daa9c" category="list-text">評価を実行するシステムを選択し、[次へ] を選択します。</block>
   <block id="806dd078b829587301ef35da4ff329f4" category="list-text">要件を定義します。</block>
   <block id="097e04f6385b45e9e5eb37d62ff925b9" category="list-text">*環境*: 必要な環境の種類 (パブリック クラウド、ハイブリッド クラウド、オンプレミス) を選択します。</block>
-  <block id="b6b10bd24bddb16fc0121f5a5567474e" category="inline-image-macro">環境の選択肢を示す技術更新要件ページ</block>
-  <block id="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="paragraph"><block ref="fa7b0e3f5be9f2a26b76a97b7b84aa84" category="inline-image-macro-rx" type="image"></block></block>
   <block id="f0d5a5bcec2b02dc4f30e9cac55af1ef" category="list-text">*ワークロード*: 処理するワークロードの種類をすべて選択します: ビジネス クリティカルなアプリケーション、高パフォーマンス分析とコンピューティング、データ レイクとメディア ワークフロー、セカンダリ ストレージ、それほど重要でないワークロード。</block>
   <block id="6f29ee9b7199fc42e3e35abdfdbe7825" category="inline-image-macro">ワークロードの選択</block>
   <block id="f2a5b15c77282cbeff7cf30606c436fa" category="paragraph"><block ref="f2a5b15c77282cbeff7cf30606c436fa" category="inline-image-macro-rx" type="image"></block></block>
@@ -401,17 +343,11 @@
   <block id="3369d572efb7971966d65671e9a87c83" category="list-text">推奨事項の PDF をダウンロードするには、[ダウンロード] を選択します。</block>
   <block id="778c1b7029a1912f763bb976dd5e31f2" category="list-text">推奨事項に関してNetApp の営業担当者に連絡するには、[営業担当者に問い合わせる] を選択します。  Web ページには、 NetApp の営業担当者に連絡するために選択できるオプションが表示されます。</block>
   <block id="560e42e6da9452e07ba03414df4da014" category="list-text">*完了*を選択します。</block>
-  <block id="8e4d9596ef29e6bf948898e20b66f6c4" category="section-title">すでに実施したテクノロジー更新評価を表示する</block>
-  <block id="2be881e5370ff5fb4545cae0fccc4747" category="paragraph">すでに実施したテクノロジ更新評価を見直し、推奨事項を再度確認することをお勧めします。</block>
-  <block id="e58cff21ee4a44f6f860c9c2ea91950f" category="list-text">NetApp Consoleの左側のナビゲーションから、*ガバナンス* &gt; *ライフサイクル プランニング* &gt; *技術更新* を選択します。</block>
-  <block id="cfdbfc3f5dc775fe2319a5021b966ab5" category="list-text">*技術更新候補*タブを選択します。このタブには、技術更新評価を実施したすべてのシステムが一覧表示されます。次に、そのシステムの行の [アクション] メニューから選択して、そのシステムの評価と推奨事項を表示します。</block>
   <block id="94750197e906cc2c9191e06c19bbb219" category="list-text">更新オプションの評価ページで、*推奨事項の表示*を選択します。</block>
   <block id="77897fd355d4822999b6e016d2698bb2" category="list-text">更新の推奨事項を表示します。</block>
   <block id="a56822a7ed8b771ff664c8a2c312313d" category="section-title">新しいハードウェア上でワークロードをシミュレートする</block>
   <block id="1b72528e20ead2d97bbb081bc17dd1f5" category="paragraph">過去 90 日以内にAutoSupportログをNetAppに送信した場合、 NetApp は新しいハードウェア上でワークロードがどのように実行されるかを確認するためのシミュレーションを提供できます。</block>
   <block id="1f82c319eafb82533c3039aa2fc758a1" category="paragraph">シミュレーションに特定のワークロードを含めたり除外したりできます。既存のワークロード リストに表示されないワークロードを追加することもできます。</block>
-  <block id="18e03fe3f044e3b4882d1224f6b64647" category="inline-image-macro">技術更新候補タブが表示された技術更新ページ</block>
-  <block id="ea1f2682b580a987049be53745fb1a38" category="paragraph"><block ref="ea1f2682b580a987049be53745fb1a38" category="inline-image-macro-rx" type="image"></block></block>
   <block id="866d2063657c0dc4b4f64e3a2328610d" category="list-text">[アクション] 列で、[更新の評価] を選択します。</block>
   <block id="62ae1f29a7b20f4a204a10e7fb5bb187" category="admonition">ライフサイクル プランニングでは、シミュレーションの準備としてワークロードの詳細をインポートします。</block>
   <block id="bd3c9da01d9261aa3a93e740620c99a3" category="inline-image-macro">要件オプションを表示するワークロードのシミュレーションページ</block>
@@ -493,4 +429,68 @@
   <block id="daf104544b5203a46e1580e1b8583f1f" category="paragraph">NSS 資格情報をNetApp Consoleアカウントに関連付けることは、コンソール ユーザー ログインに関連付けられている NSS アカウントとは異なります。</block>
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">これらの NSS 資格情報は、特定のコンソール アカウント ID に関連付けられています。コンソール組織に属するユーザーは、*サポート &gt; NSS 管理* からこれらの資格情報にアクセスできます。</block>
   <block id="7687b0a57d5cb728d9fb892dfc814715" category="paragraph">これらのアクションにより、コンソールはライセンスのダウンロード、ソフトウェア アップグレードの検証、将来のサポート登録などに NSS アカウントを使用できるようになります。</block>
+  <block id="02c43db7108a3accce59c81a27ac4ef5" category="doc">ライフサイクル計画機能名の更新</block>
+  <block id="4c5232cce8bc78f484d71da8ffcfef7b" category="paragraph">以下のライフサイクルプランニング機能の名称が変更されました：</block>
+  <block id="c1e03330b4662e637d1bbe6857651076" category="inline-link-macro">システム更新を評価する</block>
+  <block id="d5ed2e99bd371bcfc460d6572a12add2" category="list-text">Tech refresh機能の名称が*System Refresh*に変更されました。<block ref="433ac4cec3ceaf7ac84bdaec77992d24" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
+  <block id="dde36ba383e039cbac61a2f920672ee0" category="inline-link-macro">ストレージを拡張する</block>
+  <block id="7909728a25fab3130222a99358ae67a5" category="list-text">容量追加機能は、現在 *Storage Expansion* という名称に変更されています。<block ref="09884e6ec96fe38b804dd493528c8e70" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
+  <block id="0f1f31b4920f5002f5c30d37073cc590" category="inline-link-macro">サポートに登録する</block>
+  <block id="7cd293fac76115b83fb817b31f0dbdf7" category="list-text">更新機能は*サポート更新*という名称に変更されました。<block ref="5eb4e7d9f21654c7ba8e676257b3a3cd" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
+  <block id="088552022b0515cdd74e912dbfe6d8bb" category="admonition">この機能には、NetApp Console（*ストレージ* &gt; *ライフサイクルプランニング*）またはDigital Advisor（*ダッシュボード* &gt; *計画ウィジェット* &gt; *システム更新*）からアクセスできます。</block>
+  <block id="c7e292ecd46e28197c2d77d6f0917d59" category="paragraph">Console内で直接Consoleエージェントを作成し、そのエージェントを後でライフサイクルプランニングで使用することができます。または、容量修復プロセスの途中でConsoleエージェントを作成することもできます。</block>
+  <block id="5d11bcc7cf307d62a4d48acb86aadb7e" category="paragraph">ライフサイクルプランニングでは、現在または将来的に容量不足が予測されるストレージ資産を評価し、ビジネスニーズを満たすデータ階層化オプションに関する推奨事項を提供します。</block>
+  <block id="4e0862c373675161e6e582e19dd003c7" category="list-text">ライフサイクルイベントに近づいているシステムを特定し、システム更新の計画を支援します。</block>
+  <block id="730fd1f7c58f2b99314d50716de954c8" category="paragraph">この機能には、NetApp Console（*Storage* &gt; *Lifecycle planning*）またはActive IQ Digital Advisor（別名Digital Advisor）（*Dashboard* &gt; *Planning widget* &gt; *System refresh*）からアクセスできます。</block>
+  <block id="66f33ec553970161629b00ebcf098d90" category="doc">ライフサイクル計画の制限事項</block>
+  <block id="6d0ce34323c5bcd47c92eaad67ab1145" category="summary">NetAppライフサイクル計画サービスは、現在または予測される容量が低いクラスタを特定し、データ階層化または追加容量に関する推奨事項を提供します（AFFシステムの場合）。このサービスは、耐用年数が近づいているシステムに対して、システム更新に関する推奨事項も提供します。</block>
+  <block id="47c77878a7175f3cc904ae84821cbc37" category="section-title">2026年6月3日</block>
+  <block id="2feeca48692986e9cc471ec61f847fca" category="paragraph">NetAppは、NetApp Consoleとそのクラウドサービスをさまざまな方法でサポートします。ナレッジベース（KB）の記事やコミュニティフォーラムなど、充実した無料のセルフサポートオプションが24時間365日利用可能です。サポート登録には、Webチケットによるリモートテクニカルサポートが含まれています。</block>
+  <block id="317cbd2c4fdbfd06a6c66bcd3f57d7ad" category="paragraph">クラウド プロバイダのファイルサービス、そのインフラ、またはそのサービスを使用するソリューションに関する技術サポートについては、該当する製品のマニュアルを参照してください。</block>
+  <block id="68e6fe8cde496154d24fd032b4262070" category="paragraph">NetAppとそのストレージソリューションおよびデータサービスに関する技術サポートを受けるには、以下に説明するサポートオプションをご利用ください。</block>
+  <block id="5bb94d173380c00577f5e04b6f26bb94" category="paragraph">現在ご覧になっているNetApp Consoleのドキュメント。</block>
+  <block id="0e20091afcea2d83d0033a933ba85092" category="paragraph">NetApp ナレッジベースを検索して、問題のトラブルシューティングに役立つ記事を見つけます。</block>
+  <block id="777d75a90b107e4f18469f82c4f81fe2" category="paragraph">NetApp Console コミュニティに参加して、進行中のディスカッションをフォローしたり、新しいディスカッションを作成したりできます。</block>
+  <block id="c406bf0ac8ac87bc5bb7132a7351b2ae" category="inline-link">Console ログインに関連付けられたクレデンシャルを管理する方法について説明します。</block>
+  <block id="377118f28487e70bd456993144b72fc7" category="list-text">*ケースの作成*機能を使用するには、まずNetApp Support Siteの認証情報をConsoleログインに関連付ける必要があります<block ref="68c4321a756e3ffe955b62cff6fea46d" category="inline-link-rx"></block>。</block>
+  <block id="0ab80a63088581d58dcf067051f4c894" category="list-text">NetApp Consoleで、*Help &gt; Support*を選択します。</block>
+  <block id="a1123cd59d7bd876c080c33906ae65ce" category="list-text">*サービス*：問題が関連しているサービスを選択してください。たとえば、コンソール内のワークフローまたは機能に関する技術サポートの問題に特化している場合は、*NetApp Console* を選択します。</block>
+  <block id="987df7518e2afb50a860647c832afd13" category="list-text">*システム*：ストレージに該当する場合は、*Cloud Volumes ONTAP*または*オンプレミス*を選択し、関連する作業環境を選択します。</block>
+  <block id="8f8e8a86e5f52b6186a37bdf266c4320" category="paragraph">表示されているシステムは、NetApp Console組織および上部バナーで選択したNetApp Consoleエージェントの範囲内にあるシステムです。</block>
+  <block id="77c89527ec8a9f89b24c5579d19b3b4b" category="paragraph"><block ref="77c89527ec8a9f89b24c5579d19b3b4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="178fdaf97b1d1577437f11ee9d5e5229" category="paragraph">このエラーは、NSS アカウントとそれに関連付けられている記録上の会社が、NetApp Console アカウントのシリアル番号（例：960xxxx）または作業環境のシリアル番号の記録上の会社と同じでないことを意味している可能性があります。次のいずれかの方法でサポートを受けることができます：</block>
+  <block id="e1100b46295d42ed50ba7a4630710164" category="section-title">サポートケースを管理する</block>
+  <block id="316508a3483178100806a9d44b49aba2" category="paragraph">コンソールから直接、アクティブなサポートケースと解決済みのサポートケースを表示および管理できます。NSSアカウントおよび所属企業に関連付けられた案件を管理できます。</block>
+  <block id="9163e8bca6fd93c080d35ab49e3efdfa" category="list-text">NetApp Console で、 * ヘルプ &gt; サポート * を選択します。</block>
+  <block id="2019fd19051c3ef493dbbb9ca65bab87" category="list-text">*ケース管理*を選択し、プロンプトが表示されたら、NSSアカウントをNetApp Consoleに追加してください。</block>
+  <block id="75e54e3a6fdbf43ed890669e079d7594" category="paragraph">*ケース管理*ページには、コンソールユーザーアカウントに関連付けられているNSSアカウントに関連する未解決のケースが表示されます。これは、*NSS管理*ページの最上部に表示されているNSSアカウントと同じものです。</block>
+  <block id="8ac6be88c1aa79062825a147fb263b0e" category="list-text">テーブルに表示される列を変更するには、<block ref="500a336e7ba1c54bcffba4e27bda4eb6" category="inline-image-macro-rx" type="image"></block>を選択してから、表示する列を選択します。</block>
+  <block id="049b7b9fab1242f5e715952973c9474d" category="list-text"><block ref="7381d9baeaf62eb099ce84f1a21ed5ca" category="inline-image-macro-rx" type="image"></block>を選択し、利用可能なオプションのいずれかを選択して、既存のケースを管理します：</block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">これはシステムによって生成されたIDで、お客様のメールアドレスにマッピングされます。*NSS管理*ページの<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block>メニューからメールアドレスを表示できます。</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">ログイン資格情報トークンを更新する必要がある場合は、<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> メニューに*資格情報の更新*オプションもあります。</block>
+  <block id="61df008f4e015b91b9f0d58de0b5e47b" category="doc">ライフサイクルプランニングによるストレージ拡張</block>
+  <block id="97944c01bd78cba2f90fd5780d3e1118" category="paragraph">推奨事項の1つは、既存のシリアル番号にシェルフを追加してストレージを拡張することです。</block>
+  <block id="dc2090660aa2b73abd03451a55127a78" category="list-text">* Storage Expansion * （以前は Add Capacity ）を選択します。</block>
+  <block id="25c60b882c33c638e47906d1ff3e1d5e" category="summary">既存の資産があり、システム更新が推奨されるかどうかを判断するための評価を実施したい場合は、ライフサイクル計画のシステム更新オプションを使用できます。このプロセスでは、お客様の現在のワークロードと資産を評価し、今後の進め方に関する推奨事項を提供します。あるいは、ワークロードシミュレーションを試してみることもできます。</block>
+  <block id="35439d74253bf8520608ab30c3724915" category="doc">ライフサイクル計画を使用してシステム更新を評価する</block>
+  <block id="b9962ab1926df6115f05fa8356c61059" category="paragraph">既存の資産があり、システム更新が推奨されるかどうかを判断したい場合は、ライフサイクル計画のシステム更新オプションを使用できます。現在のワークロードの簡単な評価を確認して推奨事項を受け取るか、過去90日以内にAutoSupportログをNetAppに送信している場合は、新しいハードウェアでワークロードがどのように動作するかを確認できるワークロードシミュレーションをサービスで提供できます。</block>
+  <block id="e34f570cd9aecb4ff5db7a51ad9fa4b5" category="paragraph">システムは、以下の基準に基づいてシステム更新の候補とみなされます：</block>
+  <block id="e27324efea1d670edc78dd94178b090b" category="list-text">*システム更新*を選択します。</block>
+  <block id="1a50abdb4c391cf1b2ec24d235f58e7d" category="inline-image-macro">システム更新候補を表示するシステム更新ページ</block>
+  <block id="7c668234a677ed6e44386b2414b0e92d" category="paragraph"><block ref="7c668234a677ed6e44386b2414b0e92d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3805288fb731960ba3e5acf404c8857b" category="list-text">*システム更新候補*タブを確認します。このタブには、システム更新によってメリットが得られる可能性のあるすべてのシステムが一覧表示されます。</block>
+  <block id="7c25aa9f3fc658ad554dc40ca920c439" category="inline-image-macro">システム更新の対象となるシステム</block>
+  <block id="34898015d5a1a4b48a3f444cb7b325ef" category="paragraph"><block ref="34898015d5a1a4b48a3f444cb7b325ef" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73272ef50ad2485f86624d59bd5a1e02" category="inline-image-macro">システム更新要件ページ（環境の選択肢を表示）</block>
+  <block id="2ffaae493d4d484b9d95b65dd7a80b25" category="paragraph"><block ref="2ffaae493d4d484b9d95b65dd7a80b25" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a80bd27b5d4618a3b50d294a9510b0b2" category="section-title">実施済みのシステム更新評価を表示</block>
+  <block id="28cc50b7d4261025e86b0491e6f2e124" category="paragraph">既に実施したシステム更新評価を確認し、推奨事項を再度確認することができます。</block>
+  <block id="c3d74488f443efdc96445241e121c9b4" category="list-text">NetApp コンソールの左側のナビゲーションで、*ストレージ*＞*ライフサイクル計画*＞*システム更新*を選択します。</block>
+  <block id="fa32d96bba3596cce01d7244f327a140" category="list-text">*System refresh candidates* タブを選択すると、システム更新評価を実施したすべてのシステムが一覧表示されます。次に、そのシステムの行の Actions メニューから、そのシステムの評価と推奨事項を表示するオプションを選択します。</block>
+  <block id="1058f4c1268b8ea3ec46c99a90d24530" category="list-text">NetApp コンソールの左側のナビゲーションで、*ガバナンス* ＞ *ライフサイクル計画* ＞ *システム更新* を選択します。</block>
+  <block id="dfceb29612aac32946a40da0b168e4ff" category="inline-image-macro">システム更新ページ（システム更新候補タブを表示）</block>
+  <block id="62a1d854312df8a4e7de58c42e66e00c" category="paragraph"><block ref="62a1d854312df8a4e7de58c42e66e00c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="42e49cdb3823814b9959fddc7c9089b9" category="sidebar">ストレージ拡張</block>
 </blocks>

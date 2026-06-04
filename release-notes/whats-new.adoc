@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: economic efficiency faq, bluexp, lifecycle planning frequently asked questions 
-summary: 'NetAppライフサイクル プランニング サービスは、現在または予測される容量が低いクラスターを識別し、データ階層化または追加容量 ( AFFシステムの場合) に関する推奨事項を提供します。このサービスでは、サポート終了が近づいているシステムに対して、技術更新の推奨事項も提供します。' 
+summary: NetAppライフサイクル計画サービスは、現在または予測される容量が低いクラスタを特定し、データ階層化または追加容量に関する推奨事項を提供します（AFFシステムの場合）。このサービスは、耐用年数が近づいているシステムに対して、システム更新に関する推奨事項も提供します。 
 ---
 = ライフサイクルプランニングの新機能
 :hardbreaks:
@@ -13,6 +13,21 @@ summary: 'NetAppライフサイクル プランニング サービスは、現�
 
 [role="lead"]
 ライフサイクル プランニングの新機能について説明します。
+
+
+
+== 2026年6月3日
+
+
+
+=== ライフサイクル計画機能名の更新
+
+以下のライフサイクルプランニング機能の名称が変更されました：
+
+* Tech refresh機能の名称が*System Refresh*に変更されました。link:../use/tech-refresh.html["システム更新を評価する"]方法をご確認ください。
+* 容量追加機能は、現在 *Storage Expansion* という名称に変更されています。link:../use/capacity-add.html["ストレージを拡張する"]方法をご確認ください。
+* 更新機能は*サポート更新*という名称に変更されました。link:../support/task-support-registration.html["サポートに登録する"]方法をご確認ください。
+
 
 
 

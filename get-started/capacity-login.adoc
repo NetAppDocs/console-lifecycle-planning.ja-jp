@@ -17,7 +17,7 @@ summary: NetApp Consoleからライフサイクル プランニングにアク�
 コンソールにログインするには、 NetAppサポート サイトの資格情報を使用できます。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-logging-in.html["ログインについて詳しくはこちら"^] 。
 
 
-TIP: この機能には、 NetApp Console(* ストレージ* > *ライフサイクル プランニング*) またはDigital Advisor (* ダッシュボード* > *計画ウィジェット* > *技術更新*) からアクセスできます。
+TIP: この機能には、NetApp Console（*ストレージ* > *ライフサイクルプランニング*）またはDigital Advisor（*ダッシュボード* > *計画ウィジェット* > *システム更新*）からアクセスできます。
 
 .手順
 . ウェブブラウザを開いて https://console.netapp.com/["NetApp Console"^]。

@@ -1,10 +1,10 @@
 ---
 sidebar: sidebar 
 permalink: release-notes/limitations.html 
-keywords: economic efficiency, bluexp, lifecycle planning, 
+keywords: economic efficiency, bluexp, lifecycle planning, netapp console 
 summary: 既知の制限事項では、このリリースのサービスでサポートされていない、または正しく相互運用されないプラットフォーム、デバイス、または機能が特定されます。 
 ---
-= 制限事項
+= ライフサイクル計画の制限事項
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

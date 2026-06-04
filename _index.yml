@@ -2,7 +2,7 @@
 indexpage:
   title: ライフサイクル計画ドキュメント
   summary: ライフサイクル プランニングでは、現在または予測される容量が低いクラスターを識別し、データ階層化に関する推奨事項を提供します。
-  keywords: technology refresh, tech refresh, AFF, capacity, economic efficiency,
+  keywords: technology refresh, system refresh, AFF, capacity, economic efficiency,
     bluexp, data tier, hardware end of life, lifecycle planning
   lead: ライフサイクル プランニングでは、現在または予測される容量が低いクラスターを識別し、データ階層化に関する推奨事項を提供します。
   tiles:
@@ -26,7 +26,7 @@ indexpage:
       url: "/use/capacity-remediate-overview.html"
     - title: 容量ステータスを確認する
       url: "/use/capacity-review-status.html"
-    - title: 容量を追加
+    - title: ストレージ拡張
       url: "/use/capacity-add.html"
     - title: コールドデータをクラウドストレージに階層化
       url: "/use/capacity-tier-data.html"
