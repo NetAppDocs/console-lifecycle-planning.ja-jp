@@ -432,11 +432,8 @@
   <block id="02c43db7108a3accce59c81a27ac4ef5" category="doc">ライフサイクル計画機能名の更新</block>
   <block id="4c5232cce8bc78f484d71da8ffcfef7b" category="paragraph">以下のライフサイクルプランニング機能の名称が変更されました：</block>
   <block id="c1e03330b4662e637d1bbe6857651076" category="inline-link-macro">システム更新を評価する</block>
-  <block id="d5ed2e99bd371bcfc460d6572a12add2" category="list-text">Tech refresh機能の名称が*System Refresh*に変更されました。<block ref="433ac4cec3ceaf7ac84bdaec77992d24" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
   <block id="dde36ba383e039cbac61a2f920672ee0" category="inline-link-macro">ストレージを拡張する</block>
-  <block id="7909728a25fab3130222a99358ae67a5" category="list-text">容量追加機能は、現在 *Storage Expansion* という名称に変更されています。<block ref="09884e6ec96fe38b804dd493528c8e70" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
   <block id="0f1f31b4920f5002f5c30d37073cc590" category="inline-link-macro">サポートに登録する</block>
-  <block id="7cd293fac76115b83fb817b31f0dbdf7" category="list-text">更新機能は*サポート更新*という名称に変更されました。<block ref="5eb4e7d9f21654c7ba8e676257b3a3cd" category="inline-link-macro-rx"></block>方法をご確認ください。</block>
   <block id="088552022b0515cdd74e912dbfe6d8bb" category="admonition">この機能には、NetApp Console（*ストレージ* &gt; *ライフサイクルプランニング*）またはDigital Advisor（*ダッシュボード* &gt; *計画ウィジェット* &gt; *システム更新*）からアクセスできます。</block>
   <block id="c7e292ecd46e28197c2d77d6f0917d59" category="paragraph">Console内で直接Consoleエージェントを作成し、そのエージェントを後でライフサイクルプランニングで使用することができます。または、容量修復プロセスの途中でConsoleエージェントを作成することもできます。</block>
   <block id="5d11bcc7cf307d62a4d48acb86aadb7e" category="paragraph">ライフサイクルプランニングでは、現在または将来的に容量不足が予測されるストレージ資産を評価し、ビジネスニーズを満たすデータ階層化オプションに関する推奨事項を提供します。</block>
@@ -493,4 +490,7 @@
   <block id="dfceb29612aac32946a40da0b168e4ff" category="inline-image-macro">システム更新ページ（システム更新候補タブを表示）</block>
   <block id="62a1d854312df8a4e7de58c42e66e00c" category="paragraph"><block ref="62a1d854312df8a4e7de58c42e66e00c" category="inline-image-macro-rx" type="image"></block></block>
   <block id="42e49cdb3823814b9959fddc7c9089b9" category="sidebar">ストレージ拡張</block>
+  <block id="32846264266c0647221942c075bdc06f" category="list-text">技術更新機能は、現在*System Refresh*という名称に変更されています。<block ref="0992661cdfbc250579dfee7583af372b" category="inline-link-rx"></block>方法をご確認ください。</block>
+  <block id="e3df23ea52f04543b64192a1e358a186" category="list-text">容量追加機能は、現在*ストレージ拡張*という名称に変更されました。<block ref="6d1deb53b91708fe3765ff162dd599c6" category="inline-link-rx"></block>方法をご確認ください。</block>
+  <block id="d6d364aab071b2f59e7a2103a3f70fc3" category="list-text">更新機能は「サポート更新」という名称に変更されました。詳細については<block ref="80301498cb8d291152f0aa65080b783f" category="inline-link-rx"></block>をご覧ください。</block>
 </blocks>
