@@ -4,7 +4,7 @@ permalink: get-started/faq.html
 keywords: economic efficiency faq, lifecycle planning frequently asked questions 
 summary: 質問に対する簡単な回答を探している場合は、この FAQ が役立ちます。 
 ---
-= ライフサイクル計画に関するよくある質問
+= ライフサイクルプランニングに関するよくある質問
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
@@ -16,6 +16,7 @@ summary: 質問に対する簡単な回答を探している場合は、この F
 
 
 
+[[access-to-lifecycle-planning]]
 == ライフサイクル計画へのアクセス
 
 *ライフサイクル プランニングの URL とは何ですか?*
@@ -24,6 +25,7 @@ URL については、ブラウザで次のように入力します。 https://c
 
 
 
+[[licensing]]
 == ライセンス
 
 *ライフサイクル プランニングを使用するにはライセンスが必要ですか?*

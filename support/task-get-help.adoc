@@ -4,7 +4,7 @@ permalink: support/task-get-help.html
 keywords: help, ticket, open support case, support, netapp support, technical support, call support, phone number, open ticket, web ticket, open an issue 
 summary: 'NetApp は、さまざまな方法でNetApp Consoleのサポートを提供します。ナレッジベース (KB) 記事やコミュニティ フォーラムなど、広範な無料のセルフサポート オプションが 24 時間 365 日ご利用いただけます。サポート登録には、Webチケットによるリモートテクニカルサポートも含まれます。' 
 ---
-= ヘルプを受ける
+= NetApp Consoleのヘルプを参照する
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
@@ -15,6 +15,7 @@ NetAppは、NetApp Consoleとそのクラウドサービスをさまざまな方
 
 
 
+[[get-support-for-a-cloud-provider-file-service]]
 == クラウドプロバイダーのファイルサービスのサポートを受ける
 
 クラウド プロバイダのファイルサービス、そのインフラ、またはそのサービスを使用するソリューションに関する技術サポートについては、該当する製品のマニュアルを参照してください。
@@ -28,6 +29,7 @@ NetAppとそのストレージソリューションおよびデータサービ�
 
 
 
+[[use-self-support-options]]
 == セルフサポートオプションを使用する
 
 以下のオプションは、24 時間 365 日無料でご利用いただけます。
@@ -48,6 +50,7 @@ NetApp Console コミュニティに参加して、進行中のディスカッ�
 
 
 
+[[create-a-case-with-netapp-support]]
 == NetAppサポートでケースを作成する
 
 上記のセルフ サポート オプションに加えて、サポートを有効にした後は、 NetAppサポート スペシャリストと協力して問題を解決することもできます。
@@ -104,6 +107,7 @@ image:https://raw.githubusercontent.com/NetAppDocs/console-family/main/media/scr
 
 
 
+[[manage-your-support-cases]]
 == サポートケースを管理する
 
 コンソールから直接、アクティブなサポートケースと解決済みのサポートケースを表示および管理できます。NSSアカウントおよび所属企業に関連付けられた案件を管理できます。

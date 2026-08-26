@@ -16,6 +16,7 @@ summary: NetAppライフサイクル プランニングは、現在または将�
 
 
 
+[[netapp-console]]
 == NetApp Console
 
 ライフサイクル プランニングには、 NetApp Consoleからアクセスできます。
@@ -28,6 +29,7 @@ NetApp Consoleの使用を開始するためにライセンスやサブスクリ
 
 
 
+[[what-can-you-do-with-lifecycle-planning]]
 == ライフサイクル計画で何ができるでしょうか?
 
 ライフサイクル計画は、次の目標を達成するのに役立ちます。
@@ -40,6 +42,7 @@ NetApp Consoleの使用を開始するためにライセンスやサブスクリ
 
 
 
+[[benefits-of-lifecycle-planning]]
 == ライフサイクルプランニングのメリット
 
 ライフサイクル プランニングには次のような利点があります。
@@ -51,6 +54,7 @@ NetApp Consoleの使用を開始するためにライセンスやサブスクリ
 
 
 
+[[cost]]
 == 料金
 
 NetApp、ライフサイクル プランニングの使用に対して料金を請求しません。
@@ -59,6 +63,7 @@ NetApp、ライフサイクル プランニングの使用に対して料金を�
 
 
 
+[[access]]
 == アクセス
 
 この機能には、NetApp Console（*Storage* > *Lifecycle planning*）またはActive IQ Digital Advisor（別名Digital Advisor）（*Dashboard* > *Planning widget* > *System refresh*）からアクセスできます。

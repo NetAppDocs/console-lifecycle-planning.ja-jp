@@ -4,7 +4,7 @@ permalink: use/capacity-add.html
 keywords: economic efficiency remediate, lifecycle planning, capacity planning, add capacity 
 summary: ライフサイクル プランニングでは、予測されるデータの増加に基づいてAFFシステムの推奨事項が提供されます。予測を受け入れるか、独自の予測を入力することができます。これに基づいて、ライフサイクル プランニングでは、容量増加予測を満たし、資産構成に最適な推奨事項が提示されます。 
 ---
-= ライフサイクルプランニングによるストレージ拡張
+= ライフサイクルプランニングでストレージ容量を拡張
 :hardbreaks:
 :allow-uri-read: 
 :icons: font

@@ -25,6 +25,7 @@ Console内で直接Consoleエージェントを作成し、そのエージェン
 
 
 
+[[create-a-console-agent-in-the-netapp-console]]
 == NetApp Consoleでコンソールエージェントを作成する
 
 NetApp Consoleエージェントには、 NetApp ONTAPマシンへの資格情報が含まれています。
@@ -33,6 +34,7 @@ NetApp Consoleエージェントには、 NetApp ONTAPマシンへの資格情�
 
 
 
+[[discover-the-cluster-in-the-netapp-console]]
 == NetApp Consoleでクラスタを検出する
 
 セットアップの一部として、コンソール内でクラスター名、IP、ユーザー名、およびパスワードを識別することが含まれます。

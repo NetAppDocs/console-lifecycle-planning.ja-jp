@@ -4,6 +4,7 @@
 
 
 
+[[disabled-features]]
 === 無効になっている機能
 
 BlueXP economic efficiency機能の一部は一時的に無効になっています:

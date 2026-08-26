@@ -16,10 +16,12 @@ summary: NetAppライフサイクル計画サービスは、現在または予�
 
 
 
+[[03-june-2026]]
 == 2026年6月3日
 
 
 
+[[lifecycle-planning-feature-name-updates]]
 === ライフサイクル計画機能名の更新
 
 以下のライフサイクルプランニング機能の名称が変更されました：
@@ -31,10 +33,12 @@ summary: NetAppライフサイクル計画サービスは、現在または予�
 
 
 
+[[06-october-2025]]
 == 2025年10月6日
 
 
 
+[[bluexp-economic-efficiency-is-now-lifecycle-planning]]
 === BlueXP economic efficiencyはライフサイクルプランニングに
 
 BlueXP economic efficiencyはライフサイクル プランニングに名前が変更されました。
@@ -43,6 +47,7 @@ NetApp Consoleの左側のナビゲーション バーから、[*ストレージ
 
 
 
+[[bluexp-is-now-netapp-console]]
 === BlueXPはNetApp Consoleになりました
 
 NetApp Consoleは、強化され再構築されたBlueXP基盤上に構築され、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとNetApp Data Servicesの集中管理を提供し、リアルタイムの分析情報、より高速なワークフロー、および高度なセキュリティとコンプライアンスを備えた簡素化された管理を実現します。
@@ -51,10 +56,12 @@ NetApp Consoleは、強化され再構築されたBlueXP基盤上に構築され
 
 
 
+[[15-may-2024]]
 == 2024年5月15日
 
 
 
+[[disabled-features]]
 === 無効になっている機能
 
 BlueXP economic efficiency機能の一部は一時的に無効になっています:
@@ -65,10 +72,12 @@ BlueXP economic efficiency機能の一部は一時的に無効になっていま
 
 
 
+[[14-march-2024]]
 == 2024年3月14日
 
 
 
+[[technology-refresh-options]]
 === テクノロジー更新オプション
 
 既存の資産があり、テクノロジーを更新する必要があるかどうかを判断したい場合は、 BlueXP の経済効率テクノロジー更新オプションを使用できます。現在のワークロードの簡単な評価を確認して推奨事項を入手するか、過去 90 日以内にAutoSupportログをNetAppに送信した場合は、サービスでワークロード シミュレーションを提供して、新しいハードウェアでのワークロードのパフォーマンスを確認できるようになりました。
@@ -83,20 +92,24 @@ BlueXP economic efficiency機能の一部は一時的に無効になっていま
 
 
 
+[[08-november-2023]]
 == 2023年11月8日
 
 
 
+[[technology-refresh]]
 === テクノロジーの刷新
 
 BlueXP economic efficiencyのこのリリースには、資産を評価し、テクノロジの更新が推奨されるかどうかを判断する新しいオプションが含まれています。  BlueXP economic efficiencyには、左側のナビゲーションの新しい技術更新オプション、現在のワークロードと資産を評価できる新しいページ、推奨事項を提供するレポートが含まれています。
 
 
 
+[[02-april-2023]]
 == 2023年4月2日
 
 
 
+[[introducing-bluexp-economic-efficiency]]
 === BlueXP economic efficiencyのご紹介
 
 新しいBlueXP economic efficiencyは、現在または将来的に容量不足になるストレージ資産を識別し、オンプレミスのAFFシステムのデータ階層化または追加容量に関する推奨事項を提供します。

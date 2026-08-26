@@ -4,7 +4,7 @@ permalink: use/capacity-tier-data.html
 keywords: economic efficiency remediate, economic efficiency, capacity planning, add capacity, lifecycle planning 
 summary: ライフサイクル プランニングでは、予測されるデータの増加に基づいて推奨事項が提供されます。予測を受け入れるか、独自の予測を入力することができます。このサービスでは、これに基づいて、予測される容量の増加を満たし、資産構成に最適な推奨事項を提示します。推奨事項の 1 つは、容量を解放するためにコールド データをクラウド ストレージに階層化することです。この推奨事項は、別の製品であるNetApp Cloud Tieringへの接続を開始します。 
 ---
-= コールドデータをクラウドストレージに階層化し、ライフサイクル計画で特定されたストレージを解放します。
+= ライフサイクルプランニングを使用して、コールドデータをクラウドストレージに階層化する
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
